@@ -1,3 +1,4 @@
+
 package com.topjohnwu.magisk;
 
 import android.content.Context;
